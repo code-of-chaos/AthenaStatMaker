@@ -20,6 +20,7 @@ data:dict = {
     "stat2": 2,
     "stat3": 0
 }
+
 class DisplayType(enum.StrEnum):
     CONSOLE: enum.auto
     RADIAL:enum.auto
